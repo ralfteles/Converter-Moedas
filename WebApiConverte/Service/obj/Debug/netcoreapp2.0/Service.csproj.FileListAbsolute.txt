@@ -1,0 +1,9 @@
+C:\Users\ralf_\Documents\GIT\WebApiConverte\Service\bin\Debug\netcoreapp2.0\Service.deps.json
+C:\Users\ralf_\Documents\GIT\WebApiConverte\Service\bin\Debug\netcoreapp2.0\Service.dll
+C:\Users\ralf_\Documents\GIT\WebApiConverte\Service\bin\Debug\netcoreapp2.0\Service.pdb
+C:\Users\ralf_\Documents\GIT\WebApiConverte\Service\obj\Debug\netcoreapp2.0\Service.csprojResolveAssemblyReference.cache
+C:\Users\ralf_\Documents\GIT\WebApiConverte\Service\obj\Debug\netcoreapp2.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\ralf_\Documents\GIT\WebApiConverte\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfoInputs.cache
+C:\Users\ralf_\Documents\GIT\WebApiConverte\Service\obj\Debug\netcoreapp2.0\Service.AssemblyInfo.cs
+C:\Users\ralf_\Documents\GIT\WebApiConverte\Service\obj\Debug\netcoreapp2.0\Service.dll
+C:\Users\ralf_\Documents\GIT\WebApiConverte\Service\obj\Debug\netcoreapp2.0\Service.pdb

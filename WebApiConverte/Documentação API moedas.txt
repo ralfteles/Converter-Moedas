@@ -1,0 +1,44 @@
+﻿
+ Documentação:
+
+**Insturções**
+ 
+Entrda e saída:
+ Euro, Dolar e  Real
+ 
+ ENTRADA = Moeda atual
+ SAIDA = Moeda para qual deseja converter
+ VALOR = Valor da moeda que deseja ser convertido
+ 
+ http://localhost:58174/api/Converter/GetConverteMoeda/entrada/{ENTRADA}/saida/{SAIDA}/valor/{VALOR}
+--------------------------------------------------------------------------------------------------------
+ 
+ Converter Real p/ Dolar
+  valor dia 02/09: 0,25
+ http://localhost:58174/api/Converter/GetConverteMoeda/entrada/REAL/saida/DOLAR/valor/1
+ 
+ 
+ Converter Real p/ Euro
+ valor dia 02/09: 0,21
+ http://localhost:58174/api/Converter/GetConverteMoeda/entrada/REAL/saida/EURO/valor/1
+ 
+--------------------------------------
+
+Converter Dolar p/ Real
+ valor dia 02/09: 4,06
+ http://localhost:58174/api/Converter/GetConverteMoeda/entrada/DOLAR/saida/REAL/valor/1
+
+Converter Dolar p/ Euro
+ valor dia 02/09: 0,86
+ http://localhost:58174/api/Converter/GetConverteMoeda/entrada/DOLAR/saida/EURO/valor/1
+ 
+ -------------------------------------
+ 
+ Converter Euro p/ DOLAR
+  valor dia 02/09: 1,16
+  http://localhost:58174/api/Converter/GetConverteMoeda/entrada/EURO/saida/DOLAR/valor/1
+ 
+ 
+ Converter Euro p/ Real
+  valor dia 02/09: 4,71
+  http://localhost:58174/api/Converter/GetConverteMoeda/entrada/EURO/saida/REAL/valor/1
