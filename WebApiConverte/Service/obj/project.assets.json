@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\ralf_\\Documents\\GIT\\WebApiConverte\\Service\\Service.csproj",
+      "projectUniqueName": "C:\\Users\\ralf_\\Documents\\GIT\\Converter-Moedas\\WebApiConverte\\Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "C:\\Users\\ralf_\\Documents\\GIT\\WebApiConverte\\Service\\Service.csproj",
+      "projectPath": "C:\\Users\\ralf_\\Documents\\GIT\\Converter-Moedas\\WebApiConverte\\Service\\Service.csproj",
       "packagesPath": "C:\\Users\\ralf_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ralf_\\Documents\\GIT\\WebApiConverte\\Service\\obj\\",
+      "outputPath": "C:\\Users\\ralf_\\Documents\\GIT\\Converter-Moedas\\WebApiConverte\\Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
