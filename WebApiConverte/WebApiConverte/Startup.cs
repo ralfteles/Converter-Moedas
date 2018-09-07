@@ -31,6 +31,15 @@ namespace WebApiConverte
             services.AddScoped<IConverter, InputDolar>();
             services.AddScoped<IConverter, InputEuro>();
 
+            services.AddCors(options =>
+            {
+                options.AddPolicy("CorsPublic",
+                    builder => builder.AllowAnyOrigin()
+                    .AllowAnyMethod()
+                    .AllowAnyHeader()
+                    .AllowCredentials());
+            });
+
             services.AddMvc();
         }
 
@@ -41,6 +50,8 @@ namespace WebApiConverte
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseCors("CorsPublic");
 
             app.UseMvc();
         }
